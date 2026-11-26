@@ -1,0 +1,22 @@
+{
+  "lastProcessedId": 7371,
+  "totalProcessed": 2056,
+  "totalEnriched": 1901,
+  "totalFallback": 155,
+  "apiKey": "direct_free_mode",
+  "delayMs": 3000,
+  "isRunning": true,
+  "mode": "direct_free",
+  "lastItem": {
+    "id": 7371,
+    "name": "Alenmox CV 250mg/125mg Tablet",
+    "product_url": "https://www.1mg.com/drugs/alenmox-cv-250mg-125mg-tablet-536853",
+    "uses": "• Treatment of Bacterial infections : These include respiratory tract infections (pneumonia, bronchitis), sinus infections (sinusitis), ear infections (otitis media), skin infections (cellulitis), bone and joint infections (osteomyelitis), and dental infections (dental abscess).",
+    "side_effects": "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them Common side effects of Alenmox CV • Nausea • Vomiting • Diarrhea • Vaginal inflammation • Dizziness • Headache • Skin rash • Hives • Erythema multiforme • Abdominal pain • Tiredness • Hot flushes • Abnormal taste",
+    "dosage": "Take this medicine in the dose and duration as advised by your doctor. Swallow it as a whole. Do not chew, crush or break it. Alenmox CV 250mg/125mg Tablet should be taken with or after food.",
+    "description": "Alenmox CV 250mg/125mg Tablet is best taken with a meal to reduce the chance of stomach upset. Take it regularly at evenly spaced intervals as prescribed by your doctor. Take it at the same time daily to help you remember. The dose will depend on the type and severity of the condition, as well as your body weight. Complete the full course of treatment. Do not stop taking it, even if you feel better. If you stop it early, some bacteria may survive, and the infection may return or worsen. The most common side effects of Alenmox CV 250mg/125mg Tablet include recurrent or persistent fungal infection (mucocutaneous candidiasis), nausea, diarrhea, and vomiting. If you experience any symptoms that are persistent or get worse, consult your doctor. Before taking Alenmox CV 250mg/125mg Tablet, let your doctor know if you are allergic to any antibiotics or have kidney or liver problems. You should also inform your doctor about all other medicines you are taking. They may affect or be affected by Alenmox CV 250mg/125mg Tablet. Pregnant and breastfeeding women should consult their doctor before taking this medicine to make sure it is safe for them.",
+    "liveEnriched": true,
+    "timestamp": "2026-11-26T15:37:38.334Z"
+  },
+  "lastUpdated": "2026-11-26T15:37:38.334Z"
+}
